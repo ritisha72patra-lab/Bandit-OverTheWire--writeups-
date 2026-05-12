@@ -3,7 +3,7 @@ We commence with logging into the game through ssh using the command : ssh bandi
 
 The password for this level was obtained from the previous level.
 
-# Methodology
+## Methodology
 We initially use the ls command to get the file '-' but the contents of this can't be accessed by just using cat -
 
 Hence we use an alternative command, cat ./- to access the password.
