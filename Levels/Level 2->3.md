@@ -7,3 +7,5 @@ The password for this was obtained in the previous level.
 We use the ls command to obtain the different files and directories. This required file cannot be accessed just by using the cat command as the it contains '--' and spaces.
 
 To access this we use another alternative way :  *cat -- '--spaces in this filename--'* to obtain the password
+
+Refer to the screenshots for more details.
