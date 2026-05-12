@@ -5,4 +5,6 @@ The password for this was the password obtained in the previous level.
 ## Methodology
 For this level, we use the 'grep' command, which is is used to specifically find words on with the help of their prefixes or suffixes in the respective files.
 
-The command for this level is *grep "millionth" data.txt* and this gives us the password for the next level
+The command for this level is *grep "millionth" data.txt* and this gives us the password for the next level.
+
+Refer to the screenshots for more details.
