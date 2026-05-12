@@ -10,3 +10,5 @@ To find a file of that format, we use the 'find' command along with the size par
 The command is *find -size 1033c* where c stands for bytes. Similarly for kilobytes, megabytes and gigabytes, it is k, M and G.
 
 Once we run this command, we get a file, whose contents we can access using the 'cat' command and the password is there.
+
+Refer to the screenshots for more details.
