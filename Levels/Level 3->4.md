@@ -3,7 +3,7 @@ We commence with logging into the game through ssh using the command: ssh bandit
 
 The password was obtained from the previous level.
 
-# Methodology
+## Methodology
 To obtain the hidden directories, we use the command ls -a.
 
 Further we shift into the inhere directory using cd or change directory and further use ls -a to access the files.
